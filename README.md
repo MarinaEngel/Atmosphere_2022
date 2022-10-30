@@ -31,8 +31,8 @@ Folder "CAE masks" contains the Cloud Adjacency Effect masks for MODIS channels 
 date,time and number of MODIS channel. For example, file with name 
 "mod1830500_ch2.bmp" corresponds to the cloud adjacency effect mask for the MODIS 
 channel 2 (0.841 mkm - 0.876 mkm), 183-th day of the 2021 year and time 05:00 UTC.
-In the figures black points correcpond to cloud pixels, red points correcpond to 
-pixels with high influence of cloud adjacency effect and blue pixels correcpond to 
+In the figures black points correspond to cloud pixels, red points correcpond to 
+pixels with high influence of cloud adjacency effect and blue pixels correspond to 
 pixels with low cloud adjacency effect. 
 
 Contacts: principal investigator Mikhail Tarasenkov, e-mail tmv@iao.ru. 
